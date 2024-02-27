@@ -13,20 +13,25 @@ iv) Rotate and display the video
 Anaconda - Python 3.7
 ## Algorithm
 ### Step 1:
-<br>
+
 Use cv2.VideoCapture(0) to access web camera
+<br>
 ### Step 2:
-<br>
+
 Use cv2.imread to read the video or image
+<br>
 ### Step 3:
-<br>
+
 Use cv2.imwrite to save the image
+<br>
 ### Step 4:
-<br>
+
 Use cv2.imshow to show the video
-### Step 5:
 <br>
+### Step 5:
+
 End the program and close the output video window by pressing 'q'.
+<br>
 
 ## Program:
 ``` Python
@@ -113,35 +118,25 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-</br>
-![Screenshot 2024-02-27 102652](https://github.com/Raja8334/Image_Acqusition-_using_Web_Camera/assets/120719634/7a2db0ee-db6c-4b60-8533-c488f9944a78)
 
-</br>
+![Screenshot 2024-02-27 102652](https://github.com/Raja8334/Image_Acqusition-_using_Web_Camera/assets/120719634/4eaafd18-98a3-4d8e-a548-970bf29e0644)
 
 
 ### ii) Display the video
-</br>
-![2](https://github.com/Raja8334/Image_Acqusition-_using_Web_Camera/assets/120719634/42101342-d937-4e5e-81d8-30261961dc54)
 
-</br>
-
+![2](https://github.com/Raja8334/Image_Acqusition-_using_Web_Camera/assets/120719634/dfaf4b00-4326-49e2-aa52-c6f441374c5c)
 
 ### iii) Display the video by resizing the window
-</br>
-![3](https://github.com/Raja8334/Image_Acqusition-_using_Web_Camera/assets/120719634/3fc09282-2293-4d64-841c-76381a7b7834)
 
-</br>
+
+![3](https://github.com/Raja8334/Image_Acqusition-_using_Web_Camera/assets/120719634/dada9502-f3cd-4c05-bfcf-79b3814ee4a6)
 
 
 
 ### iv) Rotate and display the video
-</br>
-![4](https://github.com/Raja8334/Image_Acqusition-_using_Web_Camera/assets/120719634/d6d9feae-c951-4288-b36f-06833e56cfdb)
-
-</br>
 
 
-
+![4](https://github.com/Raja8334/Image_Acqusition-_using_Web_Camera/assets/120719634/e3492c19-e820-45c5-a4e1-be6687e58aa8)
 
 
 ## Result:
