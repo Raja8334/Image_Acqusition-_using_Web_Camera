@@ -35,9 +35,9 @@ End the program and close the output video window by pressing 'q'.
 
 ## Program:
 ``` Python
-### Developed By:
-### Register No:
-
+### Developed By:Raja R
+### Register No:212222100041
+```
 ## i) Write the frame as JPG file
 
 import cv2
@@ -114,7 +114,7 @@ cv2.destroyAllWindows()
 
 
 
-```
+
 ## Output
 
 ### i) Write the frame as JPG image
